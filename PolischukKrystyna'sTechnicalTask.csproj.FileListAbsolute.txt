@@ -1,0 +1,6 @@
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\bin\Debug\PolischukKrystyna'sTechnicalTask.exe.config
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\bin\Debug\PolischukKrystyna'sTechnicalTask.exe
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\bin\Debug\PolischukKrystyna'sTechnicalTask.pdb
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\obj\Debug\PolischukKrystyna'sTechnicalTask.csprojResolveAssemblyReference.cache
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\obj\Debug\PolischukKrystyna'sTechnicalTask.exe
+C:\Users\Default\Khrystyna\ProjectsOnC#\PolischukKrystyna'sTechnicalTask\PolischukKrystyna'sTechnicalTask\obj\Debug\PolischukKrystyna'sTechnicalTask.pdb
